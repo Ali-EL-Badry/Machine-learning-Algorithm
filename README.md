@@ -18,17 +18,9 @@ This repository serves as a comprehensive guide to **Machine Learning**, coverin
 Each notebook is well-documented, with **code walkthroughs, visualizations, and theoretical insights** to help users understand and implement machine learning models effectively.
 
 ## 🚀 Getting Started
-1. Clone the repository:  
+- Clone the repository:  
    ```bash
    git clone https://github.com/your-username/machine-learning-repo.git  
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt  
-   ```
-3. Open Jupyter Notebook:  
-   ```bash
-   jupyter notebook  
    ```
 
 ## 📜 Requirements
@@ -41,6 +33,3 @@ This repository is ideal for **beginners, students, and professionals** looking 
 
 ## ⭐ Contributing
 Feel free to contribute by adding new examples, improving existing code, or updating documentation.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
